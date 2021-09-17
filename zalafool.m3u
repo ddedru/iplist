@@ -1,0 +1,417 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="2" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHBdSTx/01-Belarus-1.png",Беларусь 1
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CWvdq9v/22-ONT-1.png",ОНТ
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dr5Cnc9/19-STV.png",СТВ
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k29tBJX/09-Mir.png",Мир
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WkJvXVp/15-RTR-Belarus.png",РТР-Беларусь
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XZbfHm/23-NTV-Belarus.png",НТВ-Беларусь
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hCTMWrC/02-Belarus-2.png",Беларусь 2
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mXXDzqq/03-Belarus-3.png",Беларусь 3
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Bk9KQ1/05-Belarus-5.png",Беларусь 5
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Bk9KQ1/05-Belarus-5.png",Беларусь 5 Интернет
+#EXTGRP:Эфирные
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tB0dJxS/18-Sojuz.png",Союз
+#EXTGRP:Религиозные
+http://178.124.183.5/hls/CH_SOYUZ_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://epg.auratv.fun/picon/slonka.png",SKY HIGH BY SLONKA HD
+#EXTGRP:Кино
+http://slonka.auratv.fun:1010/channel/n69adc131/index.m3u8?q=eee3825972567216b78c1a9f2a809e9d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R35H88m/29-TV3.png" aspect-ratio=16:9,ТВ3-Беларусь
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/KLQQ9ECGSQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rbc4Njn/36-Sony-Sci-Fi.png",Sony Sci-Fi
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/EDVYQYGHF8_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",ЕВРОКИНО
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/JEDUS3FS7V_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2mM69H/42-Lubimoe-kino.png",Любимое кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_NASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BTwvpDw/41-TV-1000.png",TV 1000
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJmfvMm/43-Muzhskoe-Kino.png",Мужское кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/W7LNWHFGTB_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnPPNzZ/44-Ruskij-Illuzion.png",Русский иллюзион
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CMV4SNACFQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pxs9ftt/45-TV-1000-Russkoje-kino.png",TV 1000 Русское кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/PWIKICZUYF_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png",Родное кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",Киносемья
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/FEDXG8XPOR_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wsZLtz7/71-Indijsloe-kino.png",Индийское кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",Наше новое кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",Кинохит
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bm28sFB/74-NST.png",НСТ
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/NEZVX5TVZX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fSZhv1g/76-TV-1000-Action.png",TV 1000 Action
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/9X9NUEEKGW_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/phrhy2K/91-Fox.png",FOX
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_FOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH1mWX9/92-Fox-Life.png",FOX Life
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_FOXL_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rp3FgCz/17-Sinema.png",Cinema
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g3XtPM6/trashtv.png",Trash
+#EXTGRP:Кино
+http://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vb8FYV/96-NTV-Serial.png",НТВ Сериал
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_NTVSERIAL_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QM3YxY6/82-5-Kanal.png",Пятый канал
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_5INTERNAT_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg2s3kL/Dorama.png",Дорама
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_DORAMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y849Bbq/kinosat.png",Киносат
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_KINOSAT_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BgtWkBd/docubox-hd.png",DocuBox HD
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_DOCUBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmMJjyB/bolt.png",Bolt
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_BOLT_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KsgBKXN/star-family.png",Star Family
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_STARFAMILY_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ss6R2hy/star-cinema.png",Star Cinema
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_STARCINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvBHJLj/kinosvidanie.png",Киносвидание
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_KINOSVIDANIE_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXvZV4B/38-Kinomix.png",Киномикс
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/VVG76MWUGX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hgx3xyN/feniks-plus-kino.png",Феникс+ Кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_FENIKS_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7YxKKp/timeless-dizi.png",Timeless Dizi Channel
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_DIZI_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NY4jTTr/39-Kinopremjera.png",Кинопремьера
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vc6rSW8/37-Sony-Channel.png",Sony
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpmDs5W/sony-turbo.png",Sony Turbo
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_SONYTURBO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2W8mQ4h/48-National-Geographic.png",National Geographic
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_NATGEO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6gdjd0/08-Nauka.png",Наука 2.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/LWWBCKZAPZ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKcyyTs/49-Viasat-History.png",Viasat History
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_VIASATHISTORY_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2jQMqf/103-Moja-Planeta.png",Моя планета
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/FV47BRVQW4_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yyW6QW4/52-History.png",History
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_HISTORY_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0QKBhrr/51-Viasat-Explore.png",Viasat Explore
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/JQQ83OBHTQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPvnP2/50-Viasat-Nature.png",Viasat Nature
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6F1mGN/14-Kultura.png",Россия Культура
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/9XJGVFFAWZ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDtYBfr/59-Drajv.png",Драйв
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/6UTCEG6ATO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swsTTmP/60-Usadba.png",Усадьба
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/XMC4NSRVN9_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvKYWFL/61-Ohota-i-Rybalka.png",Рыбалка и охота
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_RYBALKAIOHOTA_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/51JcTWV/98-24-tehno.png",24 Техно
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/ZIVFRAFR2I_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tLT4Cg/66-Oruzhije.png",Оружие
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/EWEXU8FWAZ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BN5Npt2/20-Galaxy.png",Galaxy TV
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/80cZYSJ/67-Zdorovoje-TV.png",Здоровое ТВ
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_ZDOROVOETV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8TFM9C/75-Kuhnja-TV.png",Кухня ТВ
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/EPX2UEHLPK_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncj3PQW/90-Nat-Geo-Wild.png",Nat Geo Wild
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/ESCMSBZJ8X_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzzGj57/95-NTV-Pravo.png",НТВ Право
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_NTVPRAVO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qg7NZ90/64-Dialogi-o-rybalke.png",Диалоги о рыбалке
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_FISHDYALOG_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/SWPQU2UFKD_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1q7jNkf/glazami-turista.png",Глазами туриста
+#EXTGRP:Познавательные
+http://mfe.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdwZMwm/psy21.png",Психология 21
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_PSIHOLOGY_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2nq8B5w/ntv-style.png",НТВ Стиль
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_NTVSTIL_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xjFRs5h/arsenaltv.png",Арсенал
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_ARSENAL_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BcL46Rs/domashnie-zhivotnye.png",Домашние животные
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_DOMZHIVOTNYE_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2SZWjKV/h2.png",History2
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_IP160_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QkQFbs9/travel-adventure.png",Travel+Adventure
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_TRAVELADVEN_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tQcTtj/80-Ohotnik-i-rybolov.png",Охотник и рыболов HD
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/4FDNBEDGFV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tv37Dr/81-Eda.png",Еда HD
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/BCPKKUK5NT_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmp6HNn/nasha-tema.png",Наша тема
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_NASHATEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYKxmsn/avto24.png",Авто 24
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_AVTO24_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSP7Tjf/hd-media.png",HD Media
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_HDMEDIA_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6f1brQ/24-TNT-Int.png",ТНТ
+#EXTGRP:Развлекательные
+https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxXzyjW/35-Telemagazin.png",Телемагазин
+#EXTGRP:Развлекательные
+https://mfe.svc.ott.zala.by/hls/CH_TELEMAGAZIN_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cw0JLfX/56-Sarafan.png",Сарафан
+#EXTGRP:Развлекательные
+https://mfe.svc.ott.zala.by/hls/Y9GP8UFTZO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FCNtNm/105-KVN.png",КВН ТВ
+#EXTGRP:Развлекательные
+http://188.113.190.12/307/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y0LrZsB/25-Vosmoj.png",8 канал Беларусь
+#EXTGRP:Развлекательные
+https://mfe.svc.ott.zala.by/hls/ZXUZZKCA6P_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2zBxgw/26-VTV.png",ВТВ
+#EXTGRP:Развлекательные
+https://mfe.svc.ott.zala.by/hls/CRCQFRNUFJ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cyDLLDV/yasnae.png",Яснае ТВ
+#EXTGRP:Развлекательные
+http://82.209.218.116:8181/play/Inetk2042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FHb11F3/109-1muz.png" aspect-ratio=16:9,Первый музыкальный
+#EXTGRP:Музыкальные
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6nJWj3v/30-RU-TV.png",RU.TV
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/XW6AGFSZJ8_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD706VH/34-Europa-plus.png",Europa Plus TV
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/BHH8EKRXPO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjfcwxP/57-Shanson-TV.png",Шансон-TB
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLYhfdP/89-TNT-Music.png",ТНТ Music
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/BCJGRB3KAX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Жара
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/DXBSFZDTDG_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6J5wp1h/06-Belbiznes.png",БелБизнесЧенел
+#EXTGRP:Информационные
+https://mfe.svc.ott.zala.by/hls/MCEQ4XBTHP_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7Wf5F/BS.png",Белсат
+#EXTGRP:Информационные
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gRSHtwv/10-Mir-24.png",Мир 24
+#EXTGRP:Информационные
+https://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svJgML2/93-M1-Global.png",M-1 Global
+#EXTGRP:Спорт
+http://87.247.44.25:80/btv/SWM/M1/M1_1080p_5000kbps.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJBZbMT/motorsporttv.png",Моторспорт ТВ
+#EXTGRP:Спорт
+http://mfe.svc.ott.zala.by/hls/CH_MOTORTV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mtKgCc/tochka-otryva.png",Точка отрыва
+#EXTGRP:Спорт
+http://mfe.svc.ott.zala.by/hls/CH_TOCHKAOTRIV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNCgj6G/fastfunbox-hd.png",Fast&Fun Box
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_FASTNFUNBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",FightBox
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_FIGHTBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/717Ts0F/match-planeta.png",Матч! Планета
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_MATCHPLANETA_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jH9T5B/108-Russkaja-noch.png",Мир Баскетбола
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_MIRBASKET_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JdwNd1/68-KHL.png",КХЛ
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/36H3IDE2WF_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fF3yLNR/97-UFC.png",UFC ТВ
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4N2W81V/extreme-sports.png",Extreme sports
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_EXTREMES_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kKY2B0T/russianextreme.png",Russian Extreme
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_RUSEXTREME_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtWftQN/46-Detskij-mir.png",Детский мир
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THfzzd6/55-2x2.png",2x2
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/EU9VTLDQCN_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GXnkJW/07-Multilandija.png",Мультиландия
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/FBYQ8KG5HM_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0f9nhyy/53-Gulli-Girl.png",Gulli Girl
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/7FFGONY2N8_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PF53p7F/77-Tiji.png",Tiji
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/Q0HVVEIKSQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/16mfLm3/11-Mult.png",Мульт
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png",СТС Kids
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cvy8hyL/boomerang.png",Boomerang
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_BOOMERANG_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6mgtTgC/CN.png",Cartoon Network
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_CARTOON_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9sLNbhQ/ducktv.png",ducktv
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_DUCKTV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V93wrJc/smaylik-tv.png",Смайлик ТВ
+#EXTGRP:Детские
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDLHS9H/jimjam.png",JimJam
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_JIMJAM_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whyC01B/vektor.png",Вектор ТВ Новополоцк
+#EXTGRP:Региональные
+http://mfe.svc.ott.zala.by/hls/CH_VECTOR_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1dHFdFf/variag.png",Варяг
+#EXTGRP:Региональные
+http://87.252.229.252:8081/varag
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48WLvnj/Vitebsk.png",Витебск
+#EXTGRP:Региональные
+https://cod2.vtv.by/tvt-tv/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sCnsdJL/nashe-tv-vitebsk.png",Наше ТВ Витебск
+#EXTGRP:Региональные
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq9qPDJ/nireja.png",Нирэя
+#EXTGRP:Региональные
+https://hlss.goodgame.ru/hls/165177.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6qXnkx/Pinsk.png",Пинск ТВ
+#EXTGRP:Региональные
+http://87.252.229.252:8083/pinsk
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHBdSTx/01-Belarus-1.png",Беларусь 1 Брест
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS1BREST_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHBdSTx/01-Belarus-1.png",Беларусь 1 Гомель
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS1GOMEL_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHBdSTx/01-Belarus-1.png",Беларусь 1 Гродно
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS1GRODNO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHBdSTx/01-Belarus-1.png",Беларусь 1 Могилев
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS1MOGILEV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHBdSTx/01-Belarus-1.png",Беларусь 1 Витебск
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS1VIT_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rymTMvP/04-Belarus-4.png",Беларусь 4 Брест
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4BR_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rymTMvP/04-Belarus-4.png",Беларусь 4 Гомель
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GOM_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rymTMvP/04-Belarus-4.png",Беларусь 4 Гродно
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GR_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rymTMvP/04-Belarus-4.png",Беларусь 4 Могилев
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4MOG_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rymTMvP/04-Belarus-4.png",Беларусь 4 Витебск
+#EXTGRP:Региональные
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8?version=2
+#EXTINF:-1,VIP Megahit HD
+http://iptv.prosto.tv:7000/ch43/video.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://iptv.prosto.tv:7000/ch44/video.m3u8
+#EXTINF:-1,VIP Premiere HD
+http://iptv.prosto.tv:7000/ch45/video.m3u8
+#EXTINF:-1,TV 1000
+http://iptv.prosto.tv:7000/ch46/video.m3u8
+#EXTINF:-1,TV 1000 Action
+http://iptv.prosto.tv:7000/ch47/video.m3u8
+#EXTINF:-1,TV 1000 World Kino
+http://iptv.prosto.tv:7000/ch48/video.m3u8
+#EXTINF:-1,VIP Comedy
+http://iptv.prosto.tv:7000/ch49/video.m3u8
